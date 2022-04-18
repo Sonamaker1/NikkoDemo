@@ -196,7 +196,7 @@ class DialogueBoxPsych extends FlxSpriteGroup
 		var bgColor = Std.parseInt(targetColor);
 		
 		if(song != null && song != '') {
-			FlxG.sound.playMusic(Paths.music(song), 0);
+			FlxG.sound.playMusic(Paths.music(song), 0, !StringTools.endsWith(song,"-noLoop"));
 			FlxG.sound.music.fadeIn(2, 0, 1);
 		}
 

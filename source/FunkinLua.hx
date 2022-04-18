@@ -78,7 +78,7 @@ class FunkinLua {
 			return;
 		}
 		scriptName = script;
-		trace('lua file loaded succesfully:' + script);
+		trace('lua file loaded successfully:' + script);
 
 		#if (haxe >= "4.0.0")
 		accessedProps = new Map();
@@ -223,8 +223,8 @@ class FunkinLua {
 					}
 				}
 				var newLua = new FunkinLua(cervix);
-				newLua.call("onCreate", []);
-
+				//newLua.call("onCreate", []); //bruh
+				newLua.scriptName = cervix;
 				PlayState.instance.luaArray.push(newLua);
 				return;
 			}
@@ -1522,6 +1522,7 @@ class FunkinLua {
 			if (text3 == null) text3 = '';
 			if (text4 == null) text4 = '';
 			if (text5 == null) text5 = '';
+			//this prints the wrong script name all the time, I've been unable to fix it
 			luaTrace(scriptName +":" + text1 + text2 + text3 + text4 + text5, true, false);
 		});
 		Lua_helper.add_callback(lua, "close", function(printMessage:Bool) {
@@ -2050,6 +2051,13 @@ class FunkinLua {
 					return Function_Continue;
 				}
 				trace(error);
+				if(error == 'C++ exception') { // #%*! this error in particular
+					if(PlayState.instance.endingSong) {
+						PlayState.instance.endSong();
+					}
+					return Function_Continue;
+				}
+				
 			}
 
 			var conv:Dynamic = Convert.fromLua(lua, result);

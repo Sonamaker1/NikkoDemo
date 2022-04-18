@@ -196,6 +196,9 @@ class PlayState extends MusicBeatState
 	var blammedLightsBlack:ModchartSprite;
 	var blammedLightsBlackTween:FlxTween;
 	var phillyCityLightsEvent:FlxTypedGroup<BGSprite>;
+
+	var devCharactersEvent:FlxTypedGroup<BGSprite>;
+
 	var phillyCityLightsEventTween:FlxTween;
 	var trainSound:FlxSound;
 
@@ -748,7 +751,9 @@ class PlayState extends MusicBeatState
 				{
 					if(file.endsWith('.lua') && !filesPushed.contains(file))
 					{
-						luaArray.push(new FunkinLua(folder + file));
+						var newLua = new FunkinLua(folder + file);
+						newLua.scriptName = folder + file;
+						luaArray.push(newLua);
 						filesPushed.push(file);
 					}
 				}
@@ -1072,6 +1077,7 @@ class PlayState extends MusicBeatState
 		var filesPushed:Array<String> = [];
 		var foldersToCheck:Array<String> = [Paths.getPreloadPath('data/' + Paths.formatToSongPath(SONG.song) + '/')];
 
+		
 		#if MODS_ALLOWED
 		foldersToCheck.insert(0, Paths.mods('data/' + Paths.formatToSongPath(SONG.song) + '/'));
 		if(Paths.currentModDirectory != null && Paths.currentModDirectory.length > 0)
