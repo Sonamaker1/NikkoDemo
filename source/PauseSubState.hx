@@ -44,8 +44,18 @@ class PauseSubState extends MusicBeatSubstate
 	public function new(x:Float, y:Float)
 	{
 		super();
+		
+		var lore:String = "";
+		if (PlayState.SONG.lore != null){
+			lore = PlayState.SONG.lore;
+		}
+		if (PlayState.SONG.loreHeading != null){
+			loreHeadingStr = PlayState.SONG.loreHeading;
+		}
+		
 		if(CoolUtil.difficulties.length < 2) menuItemsOG.remove('Change Difficulty'); //No need to change difficulty if there is only one!
-
+		if(lore.length < 2) menuItemsOG.remove('About'); //No more blank lore screens
+		 
 		if(PlayState.chartingMode)
 		{
 			menuItemsOG.insert(3, 'Leave Charting Mode');	
@@ -290,7 +300,7 @@ class PauseSubState extends MusicBeatSubstate
 					if(alphaTween != null){}
 					else{
 						var lowerSong = PlayState.SONG.song.toLowerCase();
-						var maesTalk:Bool = lowerSong == "salutations" || lowerSong == "abstract-obstruction" || lowerSong == "bipolarity";
+						var maesTalk:Bool = lowerSong == "tutorial-ft.-maes" || lowerSong == "salutations" || lowerSong == "abstract-obstruction" || lowerSong == "bipolarity";
 						if(loreLmao.alpha == 0){
 							if(maesTalk)
 							{

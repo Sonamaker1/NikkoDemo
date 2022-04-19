@@ -56,23 +56,25 @@ function endTime()
         elseif teamworkCheck == '' then
             local tempBool = fullCheckUnlocked('Lackluster-Check','Teamwork|Lackluster|Missing');
             if tempBool == songName then
-		if songName =='Teamwork' then
-            	     makeHideScr()
-           	     startDialogue('stages/cutsceneLackluster', 'Lackluster-noLoop','000000'); 
-            	elseif songName =='Lackluster' then
-           	     makeHideScr()
-           	     startDialogue('stages/cutsceneMissing', 'Missing-noLoop','000000'); 
-           	elseif songName =='Missing' then
-           	     makeHideScr()
-           	     startDialogue('stages/cutsceneWackluster', 'WackBecomesCanny-noLoop','000000'); 
-            	else
-            	    endSong()
-            	end
-	    end
+                if songName =='Teamwork' then
+                    makeHideScr()
+                    startDialogue('stages/cutsceneLackluster', 'Lackluster-noLoop','000000'); 
+                elseif songName =='Lackluster' then
+                    makeHideScr()
+                    startDialogue('stages/cutsceneMissing', 'Missing-noLoop','000000'); 
+                elseif songName =='Missing' then
+                    makeHideScr()
+                    startDialogue('stages/cutsceneWackluster', 'WackBecomesCanny-noLoop','000000'); 
+                else
+                    endSong() --  if this one is ever called, reality has collapsed
+                end
+            else
+                endSong() -- maybe next time, but this is not the song
+            end
         else
-            endSong()
+            endSong() -- still some stuff to unlock but you can do it
         end
     else
-        endSong()
+        endSong() --no rewards for bots or practice sorry lol
     end
 end
