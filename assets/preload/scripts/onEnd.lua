@@ -54,7 +54,7 @@ function endTime()
             startDialogue('stages/cutsceneTeamwork', 'Teamwork-noLoop','ebbfeb'); 
             return Function_Stop;
         elseif teamworkCheck == '' then
-            local tempBool = fullCheckUnlocked('Lackluster-Check','Teamwork|Lackluster|Missing');
+            local tempBool = fullCheckUnlocked('Lackluster-Check','Missing|Lackluster|Teamwork'); -- gotta flip it and reverse it apparently
             if tempBool == songName then
                 if songName =='Teamwork' then
                     makeHideScr()
