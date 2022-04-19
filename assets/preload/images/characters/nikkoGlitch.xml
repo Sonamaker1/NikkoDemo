@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nikkoGlitch.png"><SubTexture name="nikkoGlitch idle0000" x="0" y="0" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch idle0001" x="644" y="0" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch idle0002" x="1288" y="0" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch idle0003" x="1932" y="0" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch idle0004" x="0" y="724" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch idle0005" x="644" y="724" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch left0000" x="1288" y="724" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch left0001" x="1932" y="724" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch left0002" x="0" y="1448" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch left0003" x="644" y="1448" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch down0000" x="1288" y="1448" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch down0001" x="1932" y="1448" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch down0002" x="0" y="2172" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch down0003" x="644" y="2172" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch up0000" x="1288" y="2172" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch up0001" x="1932" y="2172" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch up0002" x="0" y="2896" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch up0003" x="644" y="2896" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch right0000" x="1288" y="2896" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch right0001" x="1932" y="2896" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch right0002" x="0" y="3620" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+<SubTexture name="nikkoGlitch right0003" x="644" y="3620" width="644" height="724" frameX="0" frameY="0" frameWidth="644" frameHeight="724" />
+</TextureAtlas>

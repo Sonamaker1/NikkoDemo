@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "whatify idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "whatify left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "whatify down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "whatify up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "whatify right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whatify",
+	"position": [
+		-30,
+		30
+	],
+	"healthicon": "whatify",
+	"flip_x": false,
+	"healthbar_colors": [
+		90,
+		105,
+		234
+	],
+	"camera_position": [
+		90,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

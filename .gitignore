@@ -7,7 +7,8 @@ art/test_x64-debug-officialrelease.bat
 
 ### VS Code
 art/flashFiles/*
-assets/*
+assets/preload/images/luacharacters/notes/*
+assets/exclude/*
 export/*
 .vscode/*
 *.code-workspace

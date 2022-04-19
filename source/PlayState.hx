@@ -4208,9 +4208,9 @@ class PlayState extends MusicBeatState
 		{
 			resyncVocals();
 		}
-
-		if (Math.abs(FlxG.sound.music.time - (Conductor.songPosition - Conductor.offset)) > 20
-			|| (SONG.needsVoices && vocals.playing && Math.abs(vocals.time - (Conductor.songPosition - Conductor.offset)) > 20))
+		//Thank you Ne_Eo! lol
+		if (Math.abs(FlxG.sound.music.time - (Conductor.songPosition - Conductor.offset)) > 20 
+			|| (SONG.needsVoices && Math.abs(vocals.time - (Conductor.songPosition - Conductor.offset)) > 20) && FlxG.sound.music.time < vocals.length)
 		{
 			resyncVocals();
 		}

@@ -1,0 +1,27 @@
+{
+	"position": [
+		50,
+		-20
+	],
+	"dialogue_pos": "center",
+	"scale": 1.7,
+	"image": "missingUN",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"idle_name": "missing0",
+			"loop_name": "missing0"
+		}
+	],
+	"overlayBGMaxalpha":1,
+	"overlayBGMinalpha":1,
+	"overlayBGcolor":[0,0,0]
+}

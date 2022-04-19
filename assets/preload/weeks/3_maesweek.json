@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Salutations",
+			"Icon-maes",
+			[
+				175,175,175
+			]
+		],
+		[
+			"Bipolarity",
+			"Icon-maes",
+			[
+				175,175,175
+			]
+		],
+		[
+			"Abstract-Obstruction",
+			"Icon-maes",
+			[
+				175,175,175
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "",
+	"weekName": "Maes Week",
+	"freeplayColor": [
+		175,175,175
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

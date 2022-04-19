@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sugar.png"><SubTexture name="Sugar idle0000" x="0" y="0" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="Sugar idle0001" x="604" y="0" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="Sugar idle0002" x="1208" y="0" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="Sugar idle0003" x="1812" y="0" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="Sugar idle0004" x="0" y="724" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="Sugar idle0005" x="604" y="724" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="Sugar left0000" x="1208" y="724" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="Sugar left0001" x="1812" y="724" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="Sugar down0000" x="0" y="1448" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="Sugar down0001" x="604" y="1448" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="Sugar up0000" x="1208" y="1448" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="Sugar up0001" x="1812" y="1448" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="Sugar right0000" x="0" y="2172" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="Sugar right0001" x="604" y="2172" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+</TextureAtlas>

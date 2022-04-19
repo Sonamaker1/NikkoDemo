@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle",
+			"loop": false,
+			"name": "maes idle"
+		},
+		{
+			"offsets": [
+				32,
+				-5
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "maes right"
+		},
+		{
+			"offsets": [
+				76,
+				-7
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "maes left"
+		},
+		{
+			"offsets": [
+				28,
+				-11
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singUP",
+			"loop": false,
+			"name": "maes up"
+		},
+		{
+			"offsets": [
+				29,
+				-7
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "maes down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/maes",
+	"position": [
+		-210,
+		-160
+	],
+	"healthicon": "Icon-maes",
+	"flip_x": false,
+	"healthbar_colors": [
+		220,
+		10,
+		252
+	],
+	"camera_position": [
+		-50,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

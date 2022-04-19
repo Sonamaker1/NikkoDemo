@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mononoko down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mononoko up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mononoko right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mononoko left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mononoko idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mononoko",
+	"position": [
+		-20,
+		30
+	],
+	"healthicon": "icon-mononoko",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		243,
+		238
+	],
+	"camera_position": [
+		-10,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
