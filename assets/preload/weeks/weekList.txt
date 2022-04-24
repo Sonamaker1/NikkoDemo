@@ -1,1 +1,7 @@
 tutorial
+0_maeslesson
+1_nikkoweek
+2_mononokoweek
+3_maesweek
+4_devweek
+5_bonusweek
