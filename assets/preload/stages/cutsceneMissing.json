@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.045,
+			"portrait": "missingUN",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "New Song Unlocked in freeplay menu"
+		}
+	]
+}

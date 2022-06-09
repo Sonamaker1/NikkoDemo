@@ -1,0 +1,18 @@
+{
+	"songs": [
+		["(That T", "wackbf", [165, 0, 77]]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"hideFreeplay": true,
+	"comment": "Yo you should totally change hideFreeplay to false and play this secret song while you're here looking at files lmao"	
+}

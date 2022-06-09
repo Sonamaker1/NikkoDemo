@@ -1,0 +1,25 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "center",
+	"scale": 1.0,
+	"image": "blank",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"idle_name": "-0",
+			"loop_name": "-0"
+		}
+	],
+	"overlayBGcolor":[0,0,0]
+}

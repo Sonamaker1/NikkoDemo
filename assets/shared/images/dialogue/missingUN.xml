@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:c0a708658f350be094628bc1368cf894:51d8646eb958a6511c95d5e934f8417c:cf871a9fb7b1a18201b53a10de483489$ -->
+<TextureAtlas imagePath="missingUnlock.png" width="1920" height="1440">
+    <SubTexture name="missing000" x="0" y="0" width="640" height="360"/>
+    <SubTexture name="missing001" x="640" y="0" width="640" height="360"/>
+    <SubTexture name="missing002" x="1280" y="0" width="640" height="360"/>
+    <SubTexture name="missing003" x="0" y="360" width="640" height="360"/>
+    <SubTexture name="missing004" x="640" y="360" width="640" height="360"/>
+    <SubTexture name="missing005" x="1280" y="360" width="640" height="360"/>
+    <SubTexture name="missing006" x="0" y="720" width="640" height="360"/>
+    <SubTexture name="missing007" x="640" y="720" width="640" height="360"/>
+    <SubTexture name="missing008" x="1280" y="720" width="640" height="360"/>
+    <SubTexture name="missing009" x="0" y="1080" width="640" height="360"/>
+    <SubTexture name="missing010" x="640" y="1080" width="640" height="360"/>
+    <SubTexture name="missing011" x="1280" y="1080" width="640" height="360"/>
+</TextureAtlas>

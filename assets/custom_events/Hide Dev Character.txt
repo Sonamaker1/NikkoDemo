@@ -1,0 +1,3 @@
+Sets Camera Zoom
+
+Value 1: characterID {charkol,sugar,void,whatify}
