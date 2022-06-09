@@ -1,7 +1,0 @@
-Shows a character on stage
-
-Value 1: characterID {charkol,sugar,void,whatify}
-
-Value 2: x value
-
-Value 3: y value

@@ -1,4 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="story.png"><SubTexture name="story_mode basic0000" x="0" y="0" width="417" height="103" frameX="0" frameY="0" frameWidth="417" frameHeight="103" />
-<SubTexture name="story_mode white0000" x="417" y="0" width="417" height="103" frameX="0" frameY="0" frameWidth="417" frameHeight="103" />
-</TextureAtlas>

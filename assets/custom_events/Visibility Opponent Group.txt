@@ -1,3 +1,0 @@
-Sets Opponent Visiblity
-
-Value 1: Visible = 0, Invisible = 1
