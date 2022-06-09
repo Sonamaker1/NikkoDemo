@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:1f8ea01119f8639a075ab02d7d3783cc:51d8646eb958a6511c95d5e934f8417c:14bd6d73b3196f81995b3c8a3d485d41$ -->
+<TextureAtlas imagePath="lacklusterUnlock.png" width="1920" height="1440">
+    <SubTexture name="Lackluster000" x="0" y="0" width="640" height="360"/>
+</TextureAtlas>

@@ -1,0 +1,52 @@
+{
+	"songs": [
+		[
+			"Teamwork",
+			"icon-nikko",
+			[
+				175,175,175
+			],
+			["Rusty","Groovy","Slick","Monotonous","Harmony","Hype","Salutations","Bipolarity","Abstract-Obstruction","Sugary-Sweet","What","Charred","Blaster"]
+		],
+		[
+			"Lackluster",
+			"icon-nikkoglitch",
+			[
+				75,55,65
+			],
+			["Rusty","Groovy","Slick","Monotonous","Harmony","Hype","Salutations","Bipolarity","Abstract-Obstruction","Sugary-Sweet","What","Charred","Blaster","Teamwork"]
+		],
+		[
+			"Missing",
+			"icon-minikko",
+			[
+				65,55,75
+			],
+			["Rusty","Groovy","Slick","Monotonous","Harmony","Hype","Salutations","Bipolarity","Abstract-Obstruction","Sugary-Sweet","What","Charred","Blaster","Teamwork","Lackluster"]
+		],
+		[
+			"Wackluster",
+			"icon-wacknikko",
+			[
+				65,75,55
+			],
+			["Rusty","Groovy","Slick","Monotonous","Harmony","Hype","Salutations","Bipolarity","Abstract-Obstruction","Sugary-Sweet","What","Charred","Blaster","Teamwork","Lackluster","Missing"]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "",
+	"weekName": "Bonus Week",
+	"freeplayColor": [
+		175,175,175
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

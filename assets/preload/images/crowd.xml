@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crowd.png"><SubTexture name="crowd idle0000" x="0" y="0" width="3181" height="1044" frameX="0" frameY="0" frameWidth="3181" frameHeight="1044" />
+<SubTexture name="crowd idle0001" x="3181" y="0" width="3181" height="1044" frameX="0" frameY="0" frameWidth="3181" frameHeight="1044" />
+<SubTexture name="crowd idle0002" x="6362" y="0" width="3181" height="1044" frameX="0" frameY="0" frameWidth="3181" frameHeight="1044" />
+<SubTexture name="crowd idle0003" x="9543" y="0" width="3181" height="1044" frameX="0" frameY="0" frameWidth="3181" frameHeight="1044" />
+<SubTexture name="crowd idle0004" x="0" y="1044" width="3181" height="1044" frameX="0" frameY="0" frameWidth="3181" frameHeight="1044" />
+<SubTexture name="crowd idle0005" x="3181" y="1044" width="3181" height="1044" frameX="0" frameY="0" frameWidth="3181" frameHeight="1044" />
+<SubTexture name="crowd idle0006" x="6362" y="1044" width="3181" height="1044" frameX="0" frameY="0" frameWidth="3181" frameHeight="1044" />
+<SubTexture name="crowd idle0007" x="9543" y="1044" width="3181" height="1044" frameX="0" frameY="0" frameWidth="3181" frameHeight="1044" />
+<SubTexture name="crowd idle0008" x="0" y="2088" width="3181" height="1044" frameX="0" frameY="0" frameWidth="3181" frameHeight="1044" />
+<SubTexture name="crowd idle0009" x="3181" y="2088" width="3181" height="1044" frameX="0" frameY="0" frameWidth="3181" frameHeight="1044" />
+<SubTexture name="crowd idle0010" x="6362" y="2088" width="3181" height="1044" frameX="0" frameY="0" frameWidth="3181" frameHeight="1044" />
+<SubTexture name="crowd idle0011" x="9543" y="2088" width="3181" height="1044" frameX="0" frameY="0" frameWidth="3181" frameHeight="1044" />
+</TextureAtlas>
