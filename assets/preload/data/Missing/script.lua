@@ -5,7 +5,7 @@ function onCreate()
 	setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver'); --put in mods/music/
 	setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd'); --put in mods/music/
 
-	makeAnimatedLuaSprite('mirrorNikko', 'characters/nikkoPlayer', 970, 680);
+	makeAnimatedLuaSprite('mirrorNikko', 'characters/nikkoplayer', 970, 680);
 	addAnimationByPrefix('mirrorNikko', 'singUPmiss', 'nikko upmiss', 18, true)
 	addAnimationByPrefix('mirrorNikko', 'singDOWNmiss', 'nikko downmiss', 18, true)
 	addAnimationByPrefix('mirrorNikko', 'singDOWN', 'nikko down0', 18, true)

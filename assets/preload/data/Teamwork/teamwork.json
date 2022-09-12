@@ -49,7 +49,7 @@
 					[
 						"Change Character",
 						"1",
-						"Void"
+						"void"
 					],
 					[
 						"Set Cam Zoom",
@@ -84,7 +84,7 @@
 					[
 						"Change Character",
 						"1",
-						"Charkol"
+						"charkol"
 					],
 					[
 						"Set Cam Zoom",
@@ -119,7 +119,7 @@
 					[
 						"Change Character",
 						"1",
-						"Sugar"
+						"sugar"
 					],
 					[
 						"Blammed Lights",
@@ -139,7 +139,7 @@
 					[
 						"Change Character",
 						"1",
-						"Whatify"
+						"whatify"
 					],
 					[
 						"Change Scroll Speed",
@@ -164,7 +164,7 @@
 					[
 						"Change Character",
 						"1",
-						"Void"
+						"void"
 					],
 					[
 						"Set Cam Zoom",
@@ -184,7 +184,7 @@
 					[
 						"Change Character",
 						"1",
-						"Charkol"
+						"charkol"
 					]
 				]
 			],
@@ -209,7 +209,7 @@
 					[
 						"Change Character",
 						"1",
-						"Whatify"
+						"whatify"
 					]
 				]
 			],
@@ -234,7 +234,7 @@
 					[
 						"Change Character",
 						"1",
-						"Sugar"
+						"sugar"
 					]
 				]
 			],
@@ -254,7 +254,7 @@
 					[
 						"Change Character",
 						"1",
-						"Void"
+						"void"
 					],
 					[
 						"Set Cam Zoom",
@@ -284,7 +284,7 @@
 					[
 						"Change Character",
 						"1",
-						"Charkol"
+						"charkol"
 					]
 				]
 			]
