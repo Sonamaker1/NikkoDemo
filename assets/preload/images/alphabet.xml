@@ -72,7 +72,7 @@
 	<SubTexture name="90" x="520" y="432" width="65" height="108" frameX="0"   frameY="-40" frameWidth="40" frameHeight="108" />
 	<SubTexture name=":0" x="585" y="540" width="65" height="108" frameX="0"   frameY="-40" frameWidth="40" frameHeight="108" />
 	<SubTexture name=";0" x="650" y="540" width="65" height="108" frameX="0"   frameY="-40" frameWidth="40" frameHeight="108" />
-	<SubTexture name="greaterthan0" x="845" y="324" width="65" height="108" frameX="0"   frameY="-40" frameWidth="40" frameHeight="108" />
+	<SubTexture name="<0" x="845" y="324" width="65" height="108" frameX="0"   frameY="-40" frameWidth="40" frameHeight="108" />
 	<SubTexture name="=0" x="325" y="756" width="65" height="108" frameX="0"   frameY="-40" frameWidth="40" frameHeight="108" />
 	<SubTexture name=">0" x="845" y="432" width="65" height="108" frameX="0"   frameY="-40" frameWidth="40" frameHeight="108" />
 	<SubTexture name="@0" x="585" y="432" width="65" height="108" frameX="0"   frameY="-40" frameWidth="40" frameHeight="108" />
@@ -145,7 +145,7 @@
 	<SubTexture name="bold90" x="520" y="432" width="65" height="108" frameX="0"  frameY="0" frameWidth="40" frameHeight="108" />
 	<SubTexture name="bold :0" x="585" y="540" width="65" height="108" frameX="0"  frameY="0" frameWidth="40" frameHeight="108" />
 	<SubTexture name="bold ;0" x="650" y="540" width="65" height="108" frameX="0"  frameY="0" frameWidth="40" frameHeight="108" />
-	<SubTexture name="bold greaterThan0" x="845" y="324" width="65" height="108" frameX="0"  frameY="0" frameWidth="40" frameHeight="108" />
+	<SubTexture name="bold <0" x="845" y="324" width="65" height="108" frameX="0"  frameY="0" frameWidth="40" frameHeight="108" />
 	<!----><SubTexture name="bold =0" x="325" y="756" width="65" height="108" frameX="0"  frameY="0" frameWidth="40" frameHeight="108" />
 	<SubTexture name="bold >0" x="845" y="432" width="65" height="108" frameX="0"  frameY="0" frameWidth="40" frameHeight="108" />
 	<!----><SubTexture name="bold @0" x="585" y="432" width="65" height="108" frameX="0"  frameY="0" frameWidth="40" frameHeight="108" />
